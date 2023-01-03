@@ -1,0 +1,7 @@
+{
+    "include": ["src"] // typescript가 src의 모든 파일을 확인함.
+    ,"compilerOptions": {
+        "outDir": "build" // 변환할 폴더 이름
+        ,"target": "ES6" // 어떤 버전의 JS로 컴파일 할지 정할 수 있음.
+    }
+}
