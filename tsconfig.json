@@ -5,5 +5,6 @@
         ,"target": "ES6" // 어떤 버전의 JS로 컴파일 할지 정할 수 있음.
         ,"lib": ["ES6","DOM"] // 지원 버전, DOM -> 브라우저 환경에서 작성함을 명시(자동완성도 됨)
         ,"strict": true
+        ,"allowJs": true
     }
 }
